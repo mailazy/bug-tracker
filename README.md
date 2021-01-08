@@ -1,2 +1,4 @@
-# bug-tracker
-Bug tracker repository for Mailazy platform!
+# Mailazy Bug Tracker
+
+- Please create an [issue](https://github.com/mailazy/bug-tracker/issues) for any support regarding Mailazy platform.
+
